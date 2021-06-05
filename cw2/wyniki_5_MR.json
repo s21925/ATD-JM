@@ -1,0 +1,809 @@
+MongoDB shell version v4.4.4
+connecting to: mongodb://127.0.0.1:27017/people2?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("0736a914-db2a-4be6-8695-233157ea8c60") }
+MongoDB server version: 4.4.4
+[
+	{
+		"_id" : {
+			"currency" : "RWF",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 4632.88,
+			"sredniaIloscSrodkow" : 4632.88
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "MKD",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 3835.05,
+			"sredniaIloscSrodkow" : 3835.05
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "KRW",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 13379.82,
+			"sredniaIloscSrodkow" : 6689.91
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "RUB",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 119749.15,
+			"sredniaIloscSrodkow" : 4989.547916666666
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "TZS",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 7052.370000000001,
+			"sredniaIloscSrodkow" : 3526.1850000000004
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "RSD",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 4276.56,
+			"sredniaIloscSrodkow" : 4276.56
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "BOB",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 5263.3,
+			"sredniaIloscSrodkow" : 5263.3
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "IRR",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 26504.24,
+			"sredniaIloscSrodkow" : 4417.373333333334
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "ETB",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 5436.11,
+			"sredniaIloscSrodkow" : 5436.11
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "MGA",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 14560.99,
+			"sredniaIloscSrodkow" : 4853.663333333333
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "MWK",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 3574.42,
+			"sredniaIloscSrodkow" : 3574.42
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "XOF",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 17882.05,
+			"sredniaIloscSrodkow" : 5960.683333333333
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "MYR",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 4781.12,
+			"sredniaIloscSrodkow" : 4781.12
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "KYD",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 3760.89,
+			"sredniaIloscSrodkow" : 3760.89
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "DOP",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 20674.739999999998,
+			"sredniaIloscSrodkow" : 5168.6849999999995
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "UZS",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 3573.03,
+			"sredniaIloscSrodkow" : 3573.03
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "CNY",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 470700.38000000006,
+			"sredniaIloscSrodkow" : 4954.740842105264
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "PKR",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 18938,
+			"sredniaIloscSrodkow" : 4734.5
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "AMD",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 24609.33,
+			"sredniaIloscSrodkow" : 4921.866
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "GTQ",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 5806.3,
+			"sredniaIloscSrodkow" : 5806.3
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "TJS",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 4087.71,
+			"sredniaIloscSrodkow" : 4087.71
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "YER",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 13712.5,
+			"sredniaIloscSrodkow" : 4570.833333333333
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "MNT",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 21715.61,
+			"sredniaIloscSrodkow" : 5428.9025
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "ILS",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 16295.489999999998,
+			"sredniaIloscSrodkow" : 5431.829999999999
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "NOK",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 4773.66,
+			"sredniaIloscSrodkow" : 4773.66
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "XAF",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 14094.660000000002,
+			"sredniaIloscSrodkow" : 4698.22
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "VND",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 36160.259999999995,
+			"sredniaIloscSrodkow" : 4520.032499999999
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "ZWL",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 5792.17,
+			"sredniaIloscSrodkow" : 5792.17
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "PLN",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 90770.77999999998,
+			"sredniaIloscSrodkow" : 5042.82111111111
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "HNL",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 16514.59,
+			"sredniaIloscSrodkow" : 5504.863333333334
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "EGP",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 5579.3,
+			"sredniaIloscSrodkow" : 5579.3
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "IDR",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 323922.59,
+			"sredniaIloscSrodkow" : 4907.918030303031
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "IQD",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 4269.39,
+			"sredniaIloscSrodkow" : 4269.39
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "EUR",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 245091.46999999994,
+			"sredniaIloscSrodkow" : 4901.829399999999
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "MMK",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 4629.42,
+			"sredniaIloscSrodkow" : 4629.42
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "ALL",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 3325.48,
+			"sredniaIloscSrodkow" : 3325.48
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "CZK",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 37156.420000000006,
+			"sredniaIloscSrodkow" : 4644.552500000001
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "CLP",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 21008.95,
+			"sredniaIloscSrodkow" : 5252.2375
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "JPY",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 60944.74,
+			"sredniaIloscSrodkow" : 5078.7283333333335
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "VUV",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 6418.27,
+			"sredniaIloscSrodkow" : 6418.27
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "BGN",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 21200.88,
+			"sredniaIloscSrodkow" : 5300.22
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "ZMW",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 5569.56,
+			"sredniaIloscSrodkow" : 5569.56
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "PHP",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 118606.27999999998,
+			"sredniaIloscSrodkow" : 4941.928333333332
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "SEK",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 70840.19,
+			"sredniaIloscSrodkow" : 5060.013571428572
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "NIO",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 9971.28,
+			"sredniaIloscSrodkow" : 4985.64
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "BRL",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 49632.020000000004,
+			"sredniaIloscSrodkow" : 4512.001818181819
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "MXN",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 50228.99999999999,
+			"sredniaIloscSrodkow" : 5022.9
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "NPR",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 5792.26,
+			"sredniaIloscSrodkow" : 5792.26
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "ARS",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 23242,
+			"sredniaIloscSrodkow" : 4648.4
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "THB",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 23021.96,
+			"sredniaIloscSrodkow" : 4604.392
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "KZT",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 3788.95,
+			"sredniaIloscSrodkow" : 3788.95
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "CAD",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 58375.6,
+			"sredniaIloscSrodkow" : 5306.872727272727
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "HRK",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 24354.82,
+			"sredniaIloscSrodkow" : 4870.964
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "XPF",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 4759.07,
+			"sredniaIloscSrodkow" : 4759.07
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "BYR",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 5095.79,
+			"sredniaIloscSrodkow" : 5095.79
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "LYD",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 8764.99,
+			"sredniaIloscSrodkow" : 4382.495
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "USD",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 80650.70000000001,
+			"sredniaIloscSrodkow" : 5040.668750000001
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "CDF",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 12228.8,
+			"sredniaIloscSrodkow" : 6114.4
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "PEN",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 23227.350000000002,
+			"sredniaIloscSrodkow" : 4645.47
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "NGN",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 24946.23,
+			"sredniaIloscSrodkow" : 4157.705
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "ZAR",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 11790.92,
+			"sredniaIloscSrodkow" : 3930.306666666667
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "GBP",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 6149.19,
+			"sredniaIloscSrodkow" : 6149.19
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "BWP",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 4076.29,
+			"sredniaIloscSrodkow" : 4076.29
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "COP",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 19746.73,
+			"sredniaIloscSrodkow" : 4936.6825
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "NZD",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 5328.46,
+			"sredniaIloscSrodkow" : 5328.46
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "CUP",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 15017.34,
+			"sredniaIloscSrodkow" : 5005.78
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "VEF",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 8333.28,
+			"sredniaIloscSrodkow" : 4166.64
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "ISK",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 4316.41,
+			"sredniaIloscSrodkow" : 4316.41
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "UAH",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 40471.840000000004,
+			"sredniaIloscSrodkow" : 5058.9800000000005
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "SRD",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 5286.68,
+			"sredniaIloscSrodkow" : 5286.68
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "AFN",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 16755.49,
+			"sredniaIloscSrodkow" : 5585.163333333334
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "MAD",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 3818.85,
+			"sredniaIloscSrodkow" : 3818.85
+		}
+	},
+	{
+		"_id" : {
+			"currency" : "PYG",
+			"nationality" : "Poland",
+			"sex" : "Female"
+		},
+		"value" : {
+			"calkowityIloscSrodkow" : 4874.69,
+			"sredniaIloscSrodkow" : 4874.69
+		}
+	}
+]
