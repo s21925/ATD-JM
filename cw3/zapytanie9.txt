@@ -1,0 +1,21 @@
+CREATE (CaptainAmerica:Movie {title: "Captain America: THe First Avenger", released:2011, tagline: "Steve Rogers, a rejected military soldier, transforms into..."})
+CREATE (CE:Person {name:"Chris Evans", born:1981})
+CREATE (HA:Person {name:"Hayley Atwell", born:1982})
+CREATE (SS:Person {name:"Sebastan Stan", born:1982})
+CREATE (TL:Person {name:"Tommy Lee Jones", born:1946})
+CREATE (DC:Person {name:"Dominic Cooper", born:1978})
+CREATE (CM:Person {name:"Christopher Markus", born:1970})
+CREATE (SM:Person {name:"Stephen McFeely", born:1969})
+CREATE (JJ:Person {name:"Joe Johnston", born:1950})
+CREATE
+(CE)-[:ACTED_IN {roles:["Captain America / Steve Rogers"]}]->(CaptainAmerica),
+(HA)-[:ACTED_IN {roles:["Peggy Carter"]}]->(CaptainAmerica),
+(SS)-[:ACTED_IN {roles:["James Buchanan Bucky Barnes"]}]->(CaptainAmerica),
+(TL)-[:ACTED_IN {roles:["Colonel Chestert Phillips"]}]->(CaptainAmerica),
+(DC)-[:ACTED_IN {roles:["Howard Stars"]}]->(CaptainAmerica),
+(hugo:Person {name:"Hugo Weaving"})-[:ACTED_IN {roles:["Johann Scmidt / Red Skull"]}]->(CaptainAmerica),
+(CM)-[:WROTE]->(CaptainAmerica),
+(SM)-[:WROTE]->(CaptainAmerica),
+(JJ)-[:DIRECTED]->(CaptainAmerica)
+
+MATCH (movie:Movie {title: "Captain America: THe First Avenger"})<-[*]-(people:Person) RETURN movie, people

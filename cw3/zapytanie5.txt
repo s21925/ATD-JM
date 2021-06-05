@@ -1,0 +1,2 @@
+MATCH (a:Person)-[:ACTED_IN]->(b:Movie {title: "The Matrix"})
+RETURN a,b

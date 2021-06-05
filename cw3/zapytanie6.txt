@@ -1,0 +1,1 @@
+MATCH (movie:Movie)<-[:ACTED_IN]-(actors) RETURN actors as Actor, count (*) AS NumberofMovies
