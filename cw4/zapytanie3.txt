@@ -1,0 +1,6 @@
+MATCH p = (n:town {name: "Darjeeling"})-[r*]->(m:peak {name: "Sandakphu"})
+UNWIND r as rel
+WITH p, COLLECT(rel.distance) AS dist
+WITH p, reduce(acc = 0, d in dist | acc + d) as dist2
+RETURN p, dist2
+ORDER BY dist2 ASC

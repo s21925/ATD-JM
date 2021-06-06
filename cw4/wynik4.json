@@ -1,0 +1,602 @@
+﻿[
+  {
+    "a": {
+"identity": 721,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SAT"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 724,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FLL"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 727,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "KOA"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 731,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SMF"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 732,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "RIC"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 733,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "IND"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 738,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "MCI"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 739,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "MSN"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 748,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "BIL"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 750,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ROC"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 751,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "CLT"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 752,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "DCA"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 756,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "PBI"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 757,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "MIA"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 763,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "MOB"
+      }
+    },
+    "fl": 1
+  },
+  {
+    "a": {
+"identity": 740,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SNA"
+      }
+    },
+    "fl": 2
+  },
+  {
+    "a": {
+"identity": 743,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "LAS"
+      }
+    },
+    "fl": 2
+  },
+  {
+    "a": {
+"identity": 744,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ATL"
+      }
+    },
+    "fl": 2
+  },
+  {
+    "a": {
+"identity": 745,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "CMH"
+      }
+    },
+    "fl": 2
+  },
+  {
+    "a": {
+"identity": 746,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SJC"
+      }
+    },
+    "fl": 2
+  },
+  {
+    "a": {
+"identity": 749,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "LGA"
+      }
+    },
+    "fl": 2
+  },
+  {
+    "a": {
+"identity": 760,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "TUS"
+      }
+    },
+    "fl": 2
+  },
+  {
+    "a": {
+"identity": 718,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SEA"
+      }
+    },
+    "fl": 3
+  },
+  {
+    "a": {
+"identity": 747,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "PHX"
+      }
+    },
+    "fl": 3
+  },
+  {
+    "a": {
+"identity": 764,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SBN"
+      }
+    },
+    "fl": 3
+  },
+  {
+    "a": {
+"identity": 722,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "MCO"
+      }
+    },
+    "fl": 4
+  },
+  {
+    "a": {
+"identity": 728,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "PDX"
+      }
+    },
+    "fl": 4
+  },
+  {
+    "a": {
+"identity": 734,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "BOS"
+      }
+    },
+    "fl": 4
+  },
+  {
+    "a": {
+"identity": 736,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "DFW"
+      }
+    },
+    "fl": 4
+  },
+  {
+    "a": {
+"identity": 742,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SAN"
+      }
+    },
+    "fl": 4
+  },
+  {
+    "a": {
+"identity": 753,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "BHM"
+      }
+    },
+    "fl": 4
+  },
+  {
+    "a": {
+"identity": 755,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "CVG"
+      }
+    },
+    "fl": 4
+  },
+  {
+    "a": {
+"identity": 758,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "fl": 4
+  },
+  {
+    "a": {
+"identity": 759,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FAT"
+      }
+    },
+    "fl": 4
+  },
+  {
+    "a": {
+"identity": 761,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "DLH"
+      }
+    },
+    "fl": 4
+  },
+  {
+    "a": {
+"identity": 737,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SLC"
+      }
+    },
+    "fl": 5
+  },
+  {
+    "a": {
+"identity": 741,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "HNL"
+      }
+    },
+    "fl": 5
+  },
+  {
+    "a": {
+"identity": 762,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FSD"
+      }
+    },
+    "fl": 5
+  },
+  {
+    "a": {
+"identity": 719,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "EWR"
+      }
+    },
+    "fl": 7
+  },
+  {
+    "a": {
+"identity": 767,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "MOT"
+      }
+    },
+    "fl": 8
+  },
+  {
+    "a": {
+"identity": 726,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "MSP"
+      }
+    },
+    "fl": 9
+  },
+  {
+    "a": {
+"identity": 730,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "IAD"
+      }
+    },
+    "fl": 12
+  },
+  {
+    "a": {
+"identity": 754,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "BNA"
+      }
+    },
+    "fl": 12
+  },
+  {
+    "a": {
+"identity": 765,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "AZO"
+      }
+    },
+    "fl": 13
+  },
+  {
+    "a": {
+"identity": 729,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SFO"
+      }
+    },
+    "fl": 14
+  },
+  {
+    "a": {
+"identity": 735,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "DEN"
+      }
+    },
+    "fl": 18
+  },
+  {
+    "a": {
+"identity": 723,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "LAX"
+      }
+    },
+    "fl": 22
+  },
+  {
+    "a": {
+"identity": 720,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "IAH"
+      }
+    },
+    "fl": 23
+  },
+  {
+    "a": {
+"identity": 766,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "DTW"
+      }
+    },
+    "fl": 25
+  },
+  {
+    "a": {
+"identity": 725,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "fl": 48
+  }
+]

@@ -1,0 +1,4 @@
+MATCH (a:Airport)<-[:ORIGIN]-(b:Flight)
+WITH a, count(b) as fl
+RETURN a, fl
+ORDER BY fl ASC
