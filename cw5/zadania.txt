@@ -1,0 +1,33 @@
+Ad 1)
+curl -i -XPUT -H "Content-Type: application/json" -d "{'country': 'Poland', 'capital': 'Warsaw', 'language': 'Polish', 'continentEurope': True, 'population':38, 'info': null}"  http://localhost:8098/buckets/s21925/keys/pl
+curl -i -XPUT -H "Content-Type: application/json" -d "{'country': 'Canada', 'capital': 'Ottawa', 'language': 'English French', 'continentEurope': False, 'population':35, 'info': null}"  http://localhost:8098/buckets/s21925/keys/ca
+curl -i -XPUT -H "Content-Type: application/json" -d "{'country': 'China', 'capital': 'Beijing', 'language': 'Mandarin', 'continentEurope': False, 'population':1100, 'info': null}"  http://localhost:8098/buckets/s21925/keys/ch
+curl -i -XPUT -H "Content-Type: application/json" -d "{'country': 'Brazil', 'capital': 'Brasilia', 'language': 'Portugese', 'continentEurope': False, 'population':200, 'info': null}"  http://localhost:8098/buckets/s21925/keys/br
+curl -i -XPUT -H "Content-Type: application/json" -d "{'country': 'Russia', 'capital': 'Moscow', 'language': 'Russian', 'continentEurope': True, 'population':130, 'info': null}"  http://localhost:8098/buckets/s21925/keys/ru
+
+Ad 2)
+curl -i -XGET  http://localhost:8098/buckets/s21925/keys/pl
+
+Ad 3)
+curl -i -XPUT -H "Content-Type: application/json" -d "{'country': 'Poland', 'capital': 'Warsaw', 'language': 'Polish', 'continentEurope': True, 'population':38, 'info': null, 'Language': 'Polish'}"  http://localhost:8098/buckets/s21925/keys/pl
+
+Ad 4)
+curl -i -XPUT -H "Content-Type: application/json" -d "{'country': 'Canada', 'language': 'English French', 'continentEurope': False, 'population':35, 'info': null}"  http://localhost:8098/buckets/s21925/keys/ca
+
+Ad 5)
+curl -i -XPUT -H "Content-Type: application/json" -d "{'country': 'China, People Republics of', 'capital': 'Beijing', 'language': 'Mandarin', 'continentEurope': False, 'population':1100, 'info': null}"  http://localhost:8098/buckets/s21925/keys/ch
+
+Ad 6)
+curl -i -XDELETE http://localhost:8098/buckets/s21925/keys/ru
+
+Ad 7)
+curl -i -XGET  http://localhost:8098/buckets/s21925/keys/de
+
+Ad 8)
+curl -i -XPOST -H "Content-Type: application/json" -d "{'text': 'tekst'}" http://localhost:8098/buckets/s21925/keys
+
+Ad 9)
+curl -i -XGET  http://localhost:8098/buckets/s21925/keys/C6TY78yKYTRy1MVj2SLGWv1UXLZ
+
+Ad 10)
+curl -i -XDELETE http://localhost:8098/buckets/s21925/keys/C6TY78yKYTRy1MVj2SLGWv1UXLZ
