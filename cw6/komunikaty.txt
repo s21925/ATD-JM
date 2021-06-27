@@ -1,0 +1,12 @@
+ubuntu@ubuntu:~/Desktop$ python3 program.py
+Wrzucenie do bazy dokumentu. Status code:  204
+Pobranie i wypisanie dokumentu. Status code:  200 
+
+{'Country': 'Poland', 'Capital': 'Warsaw', 'language': 'Polish', 'continentEurope': True, 'population': 38}
+Zmodyfikowanie dokumentu. Status code:  204
+Pobranie i wypisanie dokumentu. Status code:  200 
+
+{'Country': 'Germany', 'Capital': 'Berlin', 'language': 'German', 'continentEurope': True, 'population': 83}
+Usuniecie dokumentu. Status code:  204
+pobranie usunietego dokumentu (jesli istnieje, to go wypisze). Status code:  404
+Nie udalo sie pobrac dokumentu
